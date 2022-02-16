@@ -1,1 +1,1 @@
-Ce dossier connais Toutes les informations 
+Ce dossier contiens Toutes les informations 
