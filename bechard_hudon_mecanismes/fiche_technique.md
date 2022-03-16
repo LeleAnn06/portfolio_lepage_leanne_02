@@ -1,1 +1,20 @@
+# MÉCANISMES DE DÉSSAISISSEMENT
+## ARTISTES 
+Catherine Béchard et Sabin Hudon
+## ANNÉE DE RÉALISATION
 
+## NOM DE L'EXPOSITION  
+Configuration du sensible 
+## LIEU DE MISE EN EXPOSITION 
+Alfred-Pellan 
+## DATE DE MA VISITE  
+Mercredi le 16 mars 2022
+## DESCRIPTION 
+
+## EXPLICATION 
+
+## COMPOSANTES ET TECHNIQUES 
+
+## ÉLÉMENTS NÉCESSAIRES 
+
+## EXPÉRIENCE  
