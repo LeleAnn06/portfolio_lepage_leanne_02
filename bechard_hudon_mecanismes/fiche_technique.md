@@ -25,7 +25,7 @@ La structure bouge en formant une boucle sans fin et lorsque les formes se crois
 - cercle en vitre
 - prises électriques  
 - lumières
-- ![](Medias/Photos/)
+- ![élément](medias/photos/IMG_2446.jpg)
 ## EXPÉRIENCE  
 La sculpture nous amène à rester près de l'oeuvre, car celle-ci bouge et permet de diffiérente forme et vibration.  
 ## CE QUE J'AI AIMÉ 
