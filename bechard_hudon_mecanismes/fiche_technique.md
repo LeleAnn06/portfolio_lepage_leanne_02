@@ -30,10 +30,9 @@ La structure bouge en formant une boucle sans fin et lorsque les formes se crois
 La sculpture nous amène à rester près de l'oeuvre, car celle-ci bouge et permet de diffiérente forme et vibration.  
 ## CE QUE J'AI AIMÉ 
 J'ai aimé cette oeuvre, parce qu'elle me fesait penser aux éléments. Le carré bleu me faisait pensé a l'eau et la mer, Le triangle rouge au feu et à la chaleur et le cercle vert a la terre et la planète. 
-![](Medias/Photos/)
 ## CE QUE JE N'AI PAS AIMÉ 
 J'ai moins aimé qu'on voyaient tous les cables et fil, car j'avais l'impression que l'oeuvre n'était pas terminer.
-![](Medias/Photos/)
+![cables](medias/photos/IMG_2444.jpg)
 
 
-![](Medias/Photos/)
+
