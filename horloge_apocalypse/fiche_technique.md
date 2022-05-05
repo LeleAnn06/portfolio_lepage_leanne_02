@@ -55,8 +55,9 @@ Lorsque je suis entré dans la pièce une voix de femme a commencer à parler no
 - Piedestal romain
 - Horloge
 - Sac de sable 
+![telephone](medias/photos/piedestal_telephone.jpg)
 ## Ce que j'ai aimé
 Ce que j'ai le plus aimé de ce projet sont les projection sur le murs, Les illustrations sont très bien fait et j'aime le style qui nous plonge dans l'univers imaginaire. J'aime aussi beaucoup le décor avec le piedestal l'horloge et le téléphone 
 ## Ce que je n'ai pas aimé 
 Ce que j'ai moins aimé est l'introduction qui est selon pas pas très clair de comprend on doit intéragir avec l'oeuvre. 
-![](medias/photos/)
+![](medias/photos/piedestal_telephone.jpg)
