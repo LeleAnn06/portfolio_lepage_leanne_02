@@ -48,6 +48,7 @@ Lorsque je suis entré dans la pièce une voix de femme a commencer à parler no
   1 bouton,
   8 safety
   ![projecteur](medias/photos/projecteur.jpg)
+  ![lumiere](medias/photos/lumiere.jpg)
   ![](medias/photos/)
 ## Liste élément néccessaire 
 - Téléphone à roulette
