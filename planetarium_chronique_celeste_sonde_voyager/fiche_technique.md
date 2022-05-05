@@ -22,7 +22,7 @@ Dans la première partie, un animateur nous présente les trésors de la galaxie
 - haut-parleur
 - lumières
 - toile blanche 
-- ![boule](medias/photos/)
+- ![boule](medias/photos/IMG_2548.jpg)
 ## Liste élément néccessaire 
 - siège orienté vers le plafond 
 - dòme de 360 degré
