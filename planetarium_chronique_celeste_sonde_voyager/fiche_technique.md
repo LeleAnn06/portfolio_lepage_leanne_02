@@ -10,6 +10,7 @@ Planétarium Rio Tinto Alcan
 17 Avril 2022
 ## Description 
 Dans la première partie, un animateur nous présente les trésors de la galaxie et nous explique le fonctionnement des astres et de l'astrologie. Sous un dôme de 360 degré se trouve une expérience immersive dans le temps et l'espace. Nous observerons étoiles, planètes, constellations, lune et actualité astronomique. Dans la deuxième partie un film sur les sondes voyager qui racconde l'histoire passionnante de la mission spaciale la plus remarquable de l'histoire En 1977, deux sondes spatiales ont été lancées pour explorer des planètes loingtaine du Système solaire. Jupiter, Saturne, Uranus et Neptune et leurs lunes. Ces vaisseaux spatiaux ont grandement enrichi notre connaissance des mondes lointains. Maintenant, après quatre décennies, ils explorent l'espace infini.
+![fond](medias/photos/IMG_2552.jpg)
 ## Explication de la mise en espace
  
 ## Description de mon expérience
@@ -21,6 +22,7 @@ Dans la première partie, un animateur nous présente les trésors de la galaxie
 - haut-parleur
 - lumières
 - toile blanche 
+- ![boule](medias/photos/)
 ## Liste élément néccessaire 
 - siège orienté vers le plafond 
 - dòme de 360 degré
