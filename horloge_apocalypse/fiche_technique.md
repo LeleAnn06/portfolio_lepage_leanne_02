@@ -47,7 +47,7 @@ Lorsque je suis entré dans la pièce une voix de femme a commencer à parler no
   Toile blanche, 
   1 bouton,
   8 safety
-  ![](../Medias/Photos/)
+  ![projecteur](/Medias/Photos/projecteur.jpg)
   ![](../Medias/Photos/)
 ## Liste élément néccessaire 
 - Téléphone à roulette
