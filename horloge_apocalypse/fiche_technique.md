@@ -10,7 +10,7 @@ Cegep Montmorency dans le petit studio
 23 Mars 2022 
 ## Description 
 Ce projet représente l'impact collectif sur les évènements socio-politique et environnementaux qui ce produise tout au long du temps de l'humanité. L'équipe aborde ce sujet à travers le concept de l'horloge de l'apocalypse. Selon ce concept, il est présentement 23h58 et la fin du monde est a 24h.
-![](medias/photos/)
+![paysage](medias/photos/paysage.jpg)
 ## Explication de la mise en espace
 Le spectateur entre dans la pièce, il peut bouger les aiguilles de l'horloge a son aise pour avancer ou reculer dans le temps et observer les changements négatifs qu'on doient empêcher avant qu'il ne soit trop tard. 
 ![](medias/photos/)
