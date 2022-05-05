@@ -13,10 +13,9 @@ Ce projet représente l'impact collectif sur les évènements socio-politique et
 ![paysage](medias/photos/paysage.jpg)
 ## Explication de la mise en espace
 Le spectateur entre dans la pièce, il peut bouger les aiguilles de l'horloge a son aise pour avancer ou reculer dans le temps et observer les changements négatifs qu'on doient empêcher avant qu'il ne soit trop tard. 
-![](medias/photos/)
 ## Description de mon expérience
 Lorsque je suis entré dans la pièce une voix de femme a commencer à parler nous expliquant comment intéragir avec l'oeuvre. Ensuite il faut tourné l'horloge à notre aise pour que les scènes joue, on peut retourner en arrière sans aucun problème.Lorsqu'on atteint la 12ème heure le téléphone sonne nous anoncant la fin du monde. J'ai bien aimé intéragir avec l'horloge et regarder les différente scènes comme si j'était dans un film.  
-![](medias/photos/)
+![ville](medias/photos/IMG_2496.jpg)
 ## Liste des composantes techniques
 - Audio:
   4 haut-parleurs,
@@ -60,4 +59,4 @@ Lorsque je suis entré dans la pièce une voix de femme a commencer à parler no
 Ce que j'ai le plus aimé de ce projet sont les projection sur le murs, Les illustrations sont très bien fait et j'aime le style qui nous plonge dans l'univers imaginaire. J'aime aussi beaucoup le décor avec le piedestal l'horloge et le téléphone 
 ## Ce que je n'ai pas aimé 
 Ce que j'ai moins aimé est l'introduction qui est selon pas pas très clair de comprend on doit intéragir avec l'oeuvre. 
-![](medias/photos/piedestal_telephone.jpg)
+
