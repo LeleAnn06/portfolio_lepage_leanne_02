@@ -49,7 +49,7 @@ Lorsque je suis entré dans la pièce une voix de femme a commencer à parler no
   8 safety
   ![projecteur](medias/photos/projecteur.jpg)
   ![lumiere](medias/photos/lumiere.jpg)
-  ![](medias/photos/)
+  ![haut_parleur](medias/photos/haut_parleur.jpg)
 ## Liste élément néccessaire 
 - Téléphone à roulette
 - Piedestal romain
