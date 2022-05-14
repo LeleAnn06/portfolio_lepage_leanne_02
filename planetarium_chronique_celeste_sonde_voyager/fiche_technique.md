@@ -30,4 +30,4 @@ L'oeuvre est mis en place dans un dôme a 360 degré et les sièges sont en rond
 ## Ce que j'ai aimé
 J'ai aimé la partie portant sur les chroniques celeste, car elle nous explique l'univers dans un style confortable. 
 ## Ce que je n'ai pas aimé 
-J'ai moins aimé la partie sur les sonde voyager, car dépendamment de ou nous somme placédans la salle, il est difficile de voir le film. 
+J'ai moins aimé la partie sur les sonde voyager, car dépendamment de ou nous somme placé dans la salle, il est difficile de voir le film. 
